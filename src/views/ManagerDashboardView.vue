@@ -132,7 +132,7 @@ function exportCsv() {
       <div class="manager-profile">
         <span aria-hidden="true">AR</span>
         <div>
-          <strong>Faishal Fariz</strong>
+          <strong>Harisul Ikrom Amin</strong>
           <small>Mahasiswa</small>
         </div>
       </div>
